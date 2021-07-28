@@ -1,0 +1,2 @@
+#Ignore .env files type
+*.env
